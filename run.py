@@ -59,7 +59,7 @@ def logo():
 {biru}┃╚═════════════════════════════════
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┃╔═❲ INFO AUTHOR ❳═>
-{biru}┃║• GITHUB           : {abu}Github.com/HafizdXD
+{biru}┃║• GITHUB           : {putih}Github.com/HafizdXD
 {biru}┃║• WHATSAPP         : {kuning}085758862225
 {biru}┃╚═════════════════════════════════
           ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
