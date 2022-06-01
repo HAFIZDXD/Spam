@@ -62,7 +62,7 @@ def logo():
 {biru}┃║• GITHUB           : {putih}Github.com/HafizdXD
 {biru}┃║• WHATSAPP         : {kuning}085758862225
 {biru}┃╚═════════════════════════════════
-          ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 	 {W}[{Y}•{W}] Informasi{R}:{W} Maxxx 5 Spam Brutal
 	 {W}[{Y}•{W}] Ip Hp Mu{R}:{Y} {ip}
