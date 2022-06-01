@@ -17,7 +17,7 @@ Cara update
 
 $git pull
 
-$ rm - rf run.py
+$ rm - rf Spam
 
 $ git clone https://github.com/HAFIZDXD/Spam
 
