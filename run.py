@@ -53,9 +53,9 @@ def logo():
 {biru}┃╚═══════════════════════════════════════
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┃╔═❲ INFO SCRIPT ❳═>
-{biru}┃║• Script Spam Whatspapp 2022
-{biru}┃║• Jangan Diperjual Belikan Sc ini Free
-{biru}┃║• Lapor Ke author jika script diperjual Belikan!
+{biru}┃║• Script Spam Whatsapp 2022
+{biru}┃║• Jangan Diperjual Belikan Sc ini Dek
+{biru}┃║• Lapor Ke gwe klo diperjual/blikan
 {biru}┃╚═══════════════════════════════════════
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┃╔═❲ INFO AUTHOR ❳═>
