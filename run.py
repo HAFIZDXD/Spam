@@ -21,7 +21,7 @@ merah="33[37;1m"
 biru="\033[1;96m"
 #Tulisan Background Merah
 bg="\033[1;0m\033[1;41mText\033[1;0m"
-
+os.system('xdg-open https://wa.me/6285758862225?text=bang+hafizd+izin+menggunakan+sc+Spam🙏')
 
 def load():
 	load = '█'
@@ -39,7 +39,6 @@ def logo():
 	time.sleep(10)
 	os.system("clear")
 	print (f"""{putih}
-os.system('xdg-open https://wa.me/6285758862225?text=bang+hafizd+izin+menggunakan+sc+Spam🙏')
 {putih}       
 {putih}██╗░░██╗░█████╗░███████╗██╗███████╗██████╗░
 {putih}██║░░██║██╔══██╗██╔════╝██║╚════██║██╔══██╗
