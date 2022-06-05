@@ -29,7 +29,7 @@ def load():
 
 	for t in range(21):
 	    time.sleep(1)
-	    print(f'\r{R} > {Y}mengirim spam Dalam Waktu  {R}({biru}{t}{R}){Y} {G}✓ ', end='', flush=True)
+	    print(f'\r{R} > {Y}mengirim spam Dalam Waktu  {R}({biru}{t}{R}){Y} {G}☝😅 ', end='', flush=True)
 	    count += 1
 	    if count == 1:
 	    	count = 0
@@ -59,9 +59,10 @@ def logo():
 {biru}┃╚═══════════════════════════════════════
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┃╔═❲ INFO AUTHOR ❳═>
-{biru}┃║• GITHUB           : {putih}Github.com/HafizdXD
-{biru}┃║• WHATSAPP         : {kuning}085758862225
-{biru}┃╚═══════════════════════════════════════
+{biru}┃║• GITHUB     : {putih}Github.com/HafizdXD
+{biru}┃║• WHATSAPP   : {kuning}085758862225
+{biru}┃║• AUTHOR     : {Hijau} HafizdXD
+{biru}┃╚═══════════════════════════════════════ 
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 	 {W}[{Y}•{W}] Informasi{R}:{W} Maxxx 5 Spam Brutal
