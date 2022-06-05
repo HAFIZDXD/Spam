@@ -52,16 +52,23 @@ def logo():
 {biru}┃╔═> {kuning} SPAM WHATSAPP BRUTAL 404
 {biru}┃╚═══════════════════════════════════════
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{biru}┃╔═❲ INFO SCRIPT ❳═>
-{biru}┃║• Script Spam Whatsapp 2022
-{biru}┃║• Jangan Diperjual Belikan Sc ini Dek
-{biru}┃║• Lapor Ke gwe klo diperjual/blikan
+{biru}┃╔═❲ INFO SCRIPT ❳═>                                           
+{biru}┃║• Script Spam Whatsapp      
+{biru}┃║ 
+{biru}┃║• By HafizdXD               
 {biru}┃╚═══════════════════════════════════════
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┃╔═❲ INFO AUTHOR ❳═>
 {biru}┃║• GITHUB     : {putih}Github.com/HafizdXD
 {biru}┃║• WHATSAPP   : {kuning}085758862225
-{biru}┃║• AUTHOR     : {Hijau} HafizdXD
+{biru}┃║• AUTHOR     : {Hijau}HafizdXD
+{biru}┃╚═══════════════════════════════════════ 
+{biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{biru}┃╔═❲ INFORMASI USER
+{biru}┃║• REGION      :{merah}INDONESIAN(ID)
+{biru}┃║• STATUS USER :{Hijau}PREMIUM 
+{biru}┃║• LICENSE     :{kuning}Expired1007 Days
 {biru}┃╚═══════════════════════════════════════ 
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
