@@ -68,8 +68,8 @@ def logo():
 {biru}┃╔═❲ INFORMASI USER
 {biru}┃║• REGION         :{putih} INDONESIAN ID
 {biru}┃║• STATUS USER    :{Hijau}PREMIUM 
-{biru}┃║• LICENSE        : Your{Hijau}PREMIUM{kuning} Expired 1007 Days
-{biru}┃║• YOUR LICENCE   :{kuning} AJF-YTDK-QWDF-QTKGD-SDGJ
+{biru}┃║• INFORMASI Key  : Your{Hijau}Key{kuning} Expired 1007 Days
+{biru}┃║• YOUR Key       :{kuning} AJF-YTDK-QWDF-QTKGD-SDGJ
 {biru}┃╚═══════════════════════════════════════━━━━━━ 
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
