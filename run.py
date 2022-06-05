@@ -66,9 +66,9 @@ def logo():
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {biru}┃╔═❲ INFORMASI USER
-{biru}┃║• REGION      :{putih}INDONESIAN ID
+{biru}┃║• REGION      :{merah}INDONESIAN ID
 {biru}┃║• STATUS USER :{Hijau}PREMIUM 
-{biru}┃║• LICENSE     :Your{Hijau} PREMIUM Expired 1007 Days
+{biru}┃║• LICENSE     :Your{Hijau}PREMIUM{kuning}Expired 1007 Days
 {biru}┃╚═══════════════════════════════════════ 
 {biru}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
